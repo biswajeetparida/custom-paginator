@@ -1,0 +1,29 @@
+{
+    "author": "Sanat Panda",
+    "email": "sanat@nettantra.net",
+    "name": "nodejs-bs-paginate",
+    "description": "Another paginate view helper based on nodejs-yapaginate by ami44",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "mocha test/*.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "",
+        "should": "",  
+        "underscore": ""  
+    },
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nettantra/nodejs-bs-paginate"
+    },
+    "keywords" : [ "page", "paginate", "pagination", "twitter bootstrap"],
+    "bugs" : {
+        "url" : "https://github.com/nettantra/nodejs-bs-paginate/issues"
+    }
+}
